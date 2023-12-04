@@ -1,6 +1,6 @@
 expname: chest_all_360
 data:
-  datadir: /projects/cgw/medical/chest_xrays
+  datadir: /content/mednerf/graf-main/mednerf_drr_dataset/chest_xrays
   type: drr
   imsize: 128
   white_bkgd: False
